@@ -23,7 +23,7 @@ requirements.txt
 
 1. ``pip install` `-``r requirements.txt``
 
-2. 加载测试数据，加载分割模型，开始推理（如下图)
+2. 加载测试数据，加载分割模型，开始推理
    
    ![](C:\Users\Richard\Desktop\捕1.png)
 
