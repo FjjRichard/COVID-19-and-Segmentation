@@ -2,7 +2,7 @@
 
 ## 项目描述
 
-#### ### 新冠肺炎一般是肺部出现磨玻璃样病灶，现在使用[PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)训练语义分割模型，对胸部CT上的毛玻璃病灶进行分割。使用PYQT搭建UI界面，对分割结果可视化。
+新冠肺炎一般是肺部出现磨玻璃样病灶，现在使用[PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)训练语义分割模型，对胸部CT上的毛玻璃病灶进行分割。使用PYQT搭建UI界面，对分割结果可视化。
 
 ## 项目结构
 
